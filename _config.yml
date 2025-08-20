@@ -1,7 +1,7 @@
 # _config.yml
 
 title: Zhiyao Zhang' Personal Website
-author: Deployable technology for scalable transportation
+subtitle: Deployable technology for scalable transportation
 email: zhiyao.zhang@vanderbilt.edu
 
 # Use the Minimal Mistakes theme
@@ -12,6 +12,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
+timezone: America/Chicago
 description: "Deployable technology for scalable transportation"
 url: "https://realzyzhang.github.io"
 baseurl: ""
