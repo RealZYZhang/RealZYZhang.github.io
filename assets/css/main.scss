@@ -56,3 +56,32 @@ h3 {
 .masthead__menu-item {
   font-size: 0.9em;
 }
+
+/* Remove permalink hover effect on headings */
+h1:hover .header-link,
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  display: none !important;
+}
+
+/* Hide anchor links on headings */
+.header-link {
+  display: none !important;
+}
+
+/* Alternative: Hide all heading anchor link behavior */
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+}
+
+h1:hover:after,
+h2:hover:after,
+h3:hover:after,
+h4:hover:after,
+h5:hover:after,
+h6:hover:after {
+  content: none !important;
+}
