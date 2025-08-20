@@ -1,6 +1,4 @@
 ---
-# news.md
-
 layout: page
 title: Blogs
 permalink: /news/

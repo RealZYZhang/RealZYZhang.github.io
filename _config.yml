@@ -4,28 +4,102 @@ title: Zhiyao Zhang
 author: Deployable technology for scalable transportation
 email: zhiyao.zhang@vanderbilt.edu
 
-# Use the default Jekyll theme
-# theme: minima
-remote_theme: "mmistakes/minimal-mistakes"
+# Use the Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Minimal Mistakes theme settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Site Settings
+locale: "en-US"
+description: "Deployable technology for scalable transportation"
+url: "https://realzyzhang.github.io"
+baseurl: ""
+repository: "RealZYZhang/RealZYZhang.github.io"
 
-# Navigation pages
-header_pages:
-  - index.md
-  - research.md
-  - blogs.md
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# You can add your social media links here
-google_scholar_username: rVEhUBgAAAAJ&hl=en
-github_username:  RealZYZhang
-linkedin_username: zhiyao-zhang
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-# Search
-search: true
+# Site Author
+author:
+  name: "Zhiyao Zhang"
+  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "Deployable technology for scalable transportation"
+  location: "Vanderbilt University"
+  email: "zhiyao.zhang@vanderbilt.edu"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RealZYZhang"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=rVEhUBgAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/zhiyao-zhang"
 
-# Disable RSS feed
-rss: false
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RealZYZhang"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=rVEhUBgAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/zhiyao-zhang"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Defaults (will be overridden by remote theme on GitHub Pages)
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      author_profile: true
+
+# Navigation (Minimal Mistakes format)
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Research"
+      url: /research/
+    - title: "Blogs"
+      url: /news/
+
+
 
 # Exclude files from the build
 exclude:

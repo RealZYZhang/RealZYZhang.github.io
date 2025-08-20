@@ -1,6 +1,4 @@
 ---
-# research.md
-
 layout: page
 title: Research
 permalink: /research/
