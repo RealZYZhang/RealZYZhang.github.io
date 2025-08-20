@@ -52,7 +52,7 @@ var visitedplaces_config = {
   "home": "US"
 };
 </script>
-<div id="chartdiv" style="width: 1200px; height: 630px;">
+<div id="chartdiv" style="width: 600px; height: 315px;">
 <script src="https://www.visitedplaces.com/js/common.js"></script>
 <script src="https://www.visitedplaces.com/js/viewer.js"></script>
 <!-- end: VisitedPlaces.com code -->
