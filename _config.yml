@@ -2,6 +2,7 @@
 
 title: Zhiyao Zhang
 author: Zhiyao Zhang
+email: zhiyao.zhang@vanderbilt.edu
 description: >-
   Personal website of Zhiyao Zhang, a Ph.D. student at Vanderbilt University 
   studying AI for intelligent transportation systems.
@@ -9,10 +10,19 @@ description: >-
 # Use the default Jekyll theme
 theme: minima
 
+# Navigation pages
+header_pages:
+  - index.md
+  - research.md
+  - blogs.md
+
 # You can add your social media links here
-# twitter_username: your_twitter
+google_scholar_username: rVEhUBgAAAAJ&hl=en
 github_username:  RealZYZhang
-linkedin_username: zhiyao-zhang # Add your LinkedIn profile name here
+linkedin_username: zhiyao-zhang
+
+# Disable RSS feed
+rss: false
 
 # Exclude files from the build
 exclude:
