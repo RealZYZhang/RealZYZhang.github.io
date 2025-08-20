@@ -1,11 +1,8 @@
 # _config.yml
 
-title: Zhiyao Zhang
+title: Deployable technology for scalable transportation
 author: Zhiyao Zhang
 email: zhiyao.zhang@vanderbilt.edu
-description: >-
-  Personal website of Zhiyao Zhang, a Ph.D. student at Vanderbilt University 
-  studying AI for intelligent transportation systems.
 
 # Use the default Jekyll theme
 theme: minima
