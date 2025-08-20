@@ -89,15 +89,10 @@ defaults:
       layout: page
       author_profile: true
 
-# Navigation (Minimal Mistakes format)
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "Research"
-      url: /research/
-    - title: "Blogs"
-      url: /news/
+# Navigation for Minimal Mistakes theme
+# This creates the main navigation menu
+masthead_title: "Zhiyao Zhang"
+breadcrumbs: true
 
 
 
