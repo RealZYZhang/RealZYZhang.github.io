@@ -1,0 +1,20 @@
+# _config.yml
+
+title: Zhiyao Zhang
+author: Zhiyao Zhang
+description: >-
+  Personal website of Zhiyao Zhang, a Ph.D. student at Vanderbilt University 
+  studying AI for intelligent transportation systems.
+
+# Use the default Jekyll theme
+theme: minima
+
+# You can add your social media links here
+# twitter_username: your_twitter
+github_username:  RealZYZhang
+linkedin_username: your_linkedin # Add your LinkedIn profile name here
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
