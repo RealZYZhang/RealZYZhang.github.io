@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+- Need my approval before using any sudo commands such as rm -rf, and pushing to github
