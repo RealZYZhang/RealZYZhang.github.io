@@ -22,7 +22,7 @@ repository: "RealZYZhang/RealZYZhang.github.io"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "\n"
 incremental: false
 
 # Permalink structure (prevents deep nesting)
