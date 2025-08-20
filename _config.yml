@@ -25,6 +25,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Permalink structure (prevents deep nesting)
+permalink: /:categories/:title/
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate

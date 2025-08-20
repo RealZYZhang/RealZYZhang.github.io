@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blogs
+title: News
 permalink: /news/
 ---
 
