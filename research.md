@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-At 30,000 feet, my research seeks to make emerging technologies such as AI deployable, and actually deployed in roadway intelligent transporation systems, in order to improve traffic efficiency, safety, sustainability, etc. From another perspective, I try to bridge the boundary between physical systems (roadway infrastructure, vehicles) and computational processes (analysis, observation, control and optimization) for physical systems, such concept called cyber-physical systems. VU-ISIS is a world-leading research institute in cyber-physical systems, and it is my honor to be part of it.
+At 30,000 feet, my research aims to make emerging technologies such as AI deployable and actually deployed in roadway intelligent transportation systems to improve traffic efficiency, safety, sustainability, etc. From another perspective, I strive to bridge the gap between physical systems (roadway infrastructure, vehicles) and computational processes (analysis, observation, control, and optimization) for physical systems, a concept known as cyber-physical systems. VU-ISIS is a world-leading research institute in cyber-physical systems, and it is my honor to be part of it.
 
-My current research specifically centers around how to use AI such as reinforcement learning to optimize real-world traffic signals. The challenges of this topic lie in algorithmic side and deployment side: 
-- How can we design algorithms that are reliable and compliant to domain specifications in traffic signal systems?
-- How can we integrate AI in infrastructure hardware in a scalable manner?
+My current research specifically focuses on how to use AI, such as reinforcement learning (RL), to optimize real-world traffic signals. As of now, I am working on upgrading a real traffic signal to be controlled by RL. Stay tuned for more progress on this project!
 
-During the last three years, I was very fortunate to be involved in building the world's first AI (i.e., reinforcement learning) based Variable Speed Limit system located in Interstate 24 at southeast of Nashville, TN, USA. This project was funded by U.S. Department of Transportation and Tennessee Department of Transportation. I was a main contributor in developing the AI Decision Support System and participated in designing the AI algorithm. See, this is a cyber-physical system!
+During the last three years, I was very fortunate to be involved in building the world's first AI (i.e., RL) based Variable Speed Limit (VSL) system located on Interstate 24 southeast of Nashville, TN, USA. This project was funded by the U.S. Department of Transportation (USDOT) and the Tennessee Department of Transportation (TDOT). I was a main contributor in developing the AI Decision Support System and participated in designing the AI algorithm. I learned a ton about the ITS deployment challenges from this project. And BTW, see, this is a cyber-physical system!
 
-I received enormous help from our industrial collaborators including (alphabetically) Arcadis, Miovision, Stantec, Southwest Research Institute. I am open to new connection and collaboration opportunities because I believe achievements are synergies of all parties, and big things come from diverse teams.
+I received enormous help from our industrial collaborators, including (alphabetically) Arcadis, Miovision, Southwest Research Institute, and Stantec. That confirms for me the significance of academia-industry collaborations and encourages me to extend my connections further.
+
+See my full publication record at [Google Scholar](https://scholar.google.com/citations?user=rVEhUBgAAAAJ&hl=en)
