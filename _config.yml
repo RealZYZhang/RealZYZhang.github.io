@@ -95,7 +95,6 @@ masthead_title: "Zhiyao Zhang"
 breadcrumbs: true
 
 
-
 # Exclude files from the build
 exclude:
   - Gemfile

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Best Poster/Demo Award from ICCPS 2025!"
 date: 2025-05-08 00:00:00 -0500
 categories: research awards
