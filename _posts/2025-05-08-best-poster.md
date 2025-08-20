@@ -11,11 +11,11 @@ Cyber-Physical Systems (ICCPS 2025) and win the Best Poster/Demo Award!
 
 <figure>
   <img src="/assets/images/ICCPS-award.jpg" alt="ICCPS 2025 Best Poster/Demo Award Certificate">
-  <figcaption><!-- Best Poster/Demo Award Certificate --></figcaption>
+  <figcaption>Best Poster/Demo Award Certificate</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/ICCPS-poster.PNG" alt="1000DaySim Poster">
-  <figcaption><!-- Photo with my friend, Prof. Rahul Bhadani from University of Alabama, Huntsville --></figcaption>
+  <figcaption>Photo with my friend, Prof. Rahul Bhadani from University of Alabama, Huntsville</figcaption>
 </figure>
 
