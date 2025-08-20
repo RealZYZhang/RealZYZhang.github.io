@@ -1,7 +1,7 @@
 # _config.yml
 
-title: Deployable technology for scalable transportation
-author: Zhiyao Zhang
+title: Zhiyao Zhang
+author: Deployable technology for scalable transportation
 email: zhiyao.zhang@vanderbilt.edu
 
 # Use the default Jekyll theme
@@ -22,6 +22,7 @@ linkedin_username: zhiyao-zhang
 rss: false
 
 # Exclude files from the build
+# Triggering a new build for GitHub Pages
 exclude:
   - Gemfile
   - Gemfile.lock
