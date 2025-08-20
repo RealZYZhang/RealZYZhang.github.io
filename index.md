@@ -9,7 +9,9 @@ My research interests focus on the dual challenges of emerging technologies in r
 - How can we design algorithms that are reliable and compliant with domain specifications in transportation systems?
 - How can we integrate AI into real-world transportation systems in a scalable manner?
 
-I believe innovations in ITS result from synergies between academia and industry. Therefore, I am always open to connections, discussions, and collaborations from both sectors. Currently, I am looking for industrial internships that align with my research goals.
+I believe innovations in ITS result from synergies between academia and industry. Therefore, I am always open to connections, discussions, and collaborations from both sectors. 
+
+Currently, I am looking for industrial internships that align with my research goals.
 
 ## Recent News
 
