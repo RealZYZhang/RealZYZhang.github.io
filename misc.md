@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 
 ## Cat
-I have a cat named Vanna. She is 1 y/o and she like watching me studying.
+I have a cat named Vanna. She is 1 y/o and she likes watching me studying.
 <figure>
   <img src="/assets/images/vanna.jpg" alt="My cat">
   <figcaption>She seems not interested in papers, understood.</figcaption>
