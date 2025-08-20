@@ -12,7 +12,7 @@ theme: minima
 # You can add your social media links here
 # twitter_username: your_twitter
 github_username:  RealZYZhang
-linkedin_username: your_linkedin # Add your LinkedIn profile name here
+linkedin_username: zhiyao-zhang # Add your LinkedIn profile name here
 
 # Exclude files from the build
 exclude:
