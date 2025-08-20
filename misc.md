@@ -8,11 +8,11 @@ permalink: /misc/
 I have a cat named Vanna. She is 1 y/o and she like watching me studying.
 <figure>
   <img src="/assets/images/vanna.jpg" alt="My cat">
-  <figcaption>She seems not interested in papers</figcaption>
+  <figcaption>She seems not interested in papers, understood.</figcaption>
 </figure>
 
 ## Travel
-I promise myself to travel around 30 countries by 30. See my progress:
+Impressed by how convenient nowadays for international travels, I promise myself to travel around 30 countries by 30. See my progress:
 
 <!-- VisitedPlaces.com code -->
 <script>
