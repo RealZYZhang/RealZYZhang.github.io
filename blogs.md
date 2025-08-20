@@ -5,13 +5,10 @@ permalink: /news/
 ---
 
 
-<ul class="post-list">
+<ul style="list-style-type: disc; padding-left: 20px;">
   {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
+    <li style="margin-bottom: 10px;">
+      [{{ post.date | date: "%Y-%m-%d" }}] <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

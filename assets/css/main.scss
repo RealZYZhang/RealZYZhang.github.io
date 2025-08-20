@@ -1,0 +1,58 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom font size adjustments */
+html {
+  font-size: 14px; // Reduced from default 16px
+
+  @include breakpoint($medium) {
+    font-size: 16px; // Reduced from default 18px
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // Reduced from default 20px
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // Reduced from default 22px
+  }
+}
+
+/* Adjust specific text elements */
+.page__content {
+  font-size: 0.9em; // Make content text slightly smaller
+}
+
+.page__title {
+  font-size: 1.8em; // Reduce title size
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+/* Author sidebar adjustments */
+.author__bio {
+  font-size: 0.85em;
+}
+
+.author__name {
+  font-size: 1.1em;
+}
+
+/* Navigation font size */
+.masthead__menu-item {
+  font-size: 0.9em;
+}
