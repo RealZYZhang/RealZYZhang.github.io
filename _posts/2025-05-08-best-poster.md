@@ -5,6 +5,9 @@ date: 2025-05-08 00:00:00 -0500
 categories: [research]
 tags: [ICCPS, poster, award, simulation]
 permalink: /news/best-poster-iccps-2025/
+header:
+  teaser: /assets/images/ICCPS-award.jpg
+featured_image: /assets/images/ICCPS-award.jpg
 ---
 
 Happy to share that our poster abstract, [**1000DaySim: Open-Source Traffic Simulation With Real Data Over Long Time Horizons**](https://doi.org/10.1145/3716550.3725151), got accepted to 16th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2025) and win the Best Poster/Demo Award! 
