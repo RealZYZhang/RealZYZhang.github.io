@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 
 ## Cat
-I have a cat named Vanna. She is 1 y/o and she likes watching me studying.
+I have a cat named Vanna. She is 1.5 y/o and she likes watching me studying.
 <figure>
   <img src="/assets/images/vanna.jpg" alt="My cat">
   <figcaption>She seems not interested in papers, understood.</figcaption>
@@ -42,7 +42,8 @@ var visitedplaces_config = {
         "TW",
         "JP",
         "TH",
-        "MY"
+        "MY",
+        "VN"
       ],
       "colors": {
         "US": "daaa44"

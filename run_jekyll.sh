@@ -17,6 +17,7 @@ echo "Press Ctrl+C to stop the server"
 # Run Jekyll in Docker
 docker run --rm -it \
     -p 4000:4000 \
-    -v "$(pwd):/site" \
-    jekyll/jekyll:4 \
+    -p 35729:35729 \
+    -v "$(pwd):/srv/jekyll" \
+    jekyll/builder:4 \
     jekyll serve --host 0.0.0.0 --port 4000 --livereload

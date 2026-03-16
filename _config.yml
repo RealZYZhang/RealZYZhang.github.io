@@ -1,7 +1,7 @@
 # _config.yml
 
 title: Zhiyao Zhang
-subtitle: Deployable technology for scalable transportation
+subtitle: Landing RL in real-world systems
 email: zhiyao.zhang@vanderbilt.edu
 
 # Use the Minimal Mistakes theme
@@ -13,7 +13,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 timezone: America/Chicago
-description: "Deployable technology for scalable transportation"
+description: "Landing RL in real-world systems"
 url: "https://realzyzhang.github.io"
 baseurl: ""
 repository: "RealZYZhang/RealZYZhang.github.io"
@@ -97,7 +97,9 @@ defaults:
 # This creates the main navigation menu
 masthead_title: "Zhiyao Zhang"
 breadcrumbs: true
-
+collections:
+  blogs:
+    output: true
 
 # Exclude files from the build
 exclude:
