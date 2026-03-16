@@ -11,3 +11,8 @@ featured_image: /assets/images/TRBAM25.png
 ---
 
 A recent paper I coauthored, **Assessing an AI-based Variable Speed Limit System on Proactive Slowdown Warnings with Ultra-High Fidelity Speed Data**, has been accepted for presentation and won the Best Paper Award from TRB subcommittee on Travel Time Speed and Reliability! This is an acknowledgement of our efforts in deployment and evaluation of the world's first AI-based variable speed limit (VSL) control! Award certificate to be granted in TRBAM 2026.
+
+<figure>
+  <img src="/assets/images/TRBAM-award.jpeg" alt="TRBAM Best Paper Award">
+  <figcaption>TRBAM Best Paper Award</figcaption>
+</figure>
