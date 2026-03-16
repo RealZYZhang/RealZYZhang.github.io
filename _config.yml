@@ -40,7 +40,7 @@ plugins:
 author:
   name: "Zhiyao Zhang"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Ph.D. student at Vanderbilt University.<br>AI for transportation systems."
+  bio: "Ph.D. student at<br>Institute for Software Integrated Systems <br>Vanderbilt University"
   location: "1025 16th Ave S, <br>Nashville, TN 37212, USA"
   email: "zhiyao.zhang@vanderbilt.edu"
   links:
